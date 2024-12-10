@@ -1,5 +1,5 @@
 # Abstract
-This model was created using Google Colab and a Kaggle dataset (see below for Credits). It explores a Machine Learning algorithm to classify a star based on its variables. The data entry to be predicted was the star type and the data entries used as parameters were temperature, luminosity, radius, and absolute magnitude. Using a Fully-Connected Neural Network, all 72 stars were correctly classified. After classifying the stars, a reproduction of the Hertzsprung-Russell Diagram was created using MatPlotLib.
+This model was created using Google Colab and a Kaggle dataset (see below for Credits). It explores a Machine Learning algorithm to classify a set of stars based on some of their features. The target variable to be predicted was the star type while the parameters used were temperature, luminosity, radius, and absolute magnitude. Using a Fully-Connected Neural Network, all 72 stars were correctly classified with 100% accuracy. After classifying the stars, a reproduction of the Hertzsprung-Russell Diagram was created using MatPlotLib to visualize the results.
 
 # Changes
 Feel free to modify the current file to fit your own needs. Simply type "githubtocolab" instead of "github" in the URL bar and you will be able to edit the file. Your changes will not be reflected in the repository.
